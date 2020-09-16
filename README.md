@@ -1,6 +1,6 @@
 # Terraform
 
-## Some fun around Terraform and Azure Resource Provider
+## Some examples around Terraform and Azure Resource Provider
 
 To test some provision example, just clone or download the repository, access the directory you want, and do the follow:
 
